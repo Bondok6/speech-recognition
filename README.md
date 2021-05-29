@@ -1,4 +1,4 @@
-# speech-recognition
+# Speech Recognition
 
 - pip install SpeechRecognition
 - pip install googletrans
